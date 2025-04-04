@@ -42,7 +42,8 @@ body {
         color: black;
         background-color:white;
     }
-    a{
-      default:purple
+    link a{
+      default:purple;
+      hover: blue
     }
   
